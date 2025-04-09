@@ -108,6 +108,19 @@ public class TicketBooking {
 		
 			System.out.println("line 2 added");
 	}
+			public void add101(){
+		
+			System.out.println("changes in 101 branch");
+	}
+			public void add103(){
+		
+			System.out.println("changes in 103 branch");
+	}
+			public void add102(){
+		
+			System.out.println("changes in 102 branch");
+	}
+
 
 	}
 
