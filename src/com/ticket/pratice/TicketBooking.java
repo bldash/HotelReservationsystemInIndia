@@ -99,7 +99,11 @@ public class TicketBooking {
 			}
 
 		}
-// new line added 1
+	public void add1(){
+		
+			System.out.println("line 1 added");
+	}
+
 	}
 
 }
