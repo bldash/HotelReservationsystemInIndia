@@ -108,6 +108,10 @@ public class TicketBooking {
 		
 			System.out.println("line 2 added");
 	}
+		public void add501(){
+		
+			System.out.println("line 501 added");
+	}
 
 	}
 
